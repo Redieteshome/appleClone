@@ -68,7 +68,7 @@ This project is a front-end clone of Apple's website, created as a group activit
    git add index.html style.css
 
 3. **Commit Changes**
-  ```bash
+    ```bash
    git commit -m "Descriptive commit message"
 
 4. **Pull Latest Changes**
@@ -84,7 +84,7 @@ This project is a front-end clone of Apple's website, created as a group activit
   -Click "Pull Requests" → "New Pull Request"
   -Select your branch and request review
 
-## Code Review and Merging
+### Code Review and Merging
 - The group leader and members review each PR.
 - Resolve any conflicts or suggest improvements.
 - Once approved, the group leader merges the branch into the main branch.
