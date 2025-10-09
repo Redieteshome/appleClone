@@ -1,4 +1,3 @@
-# appleClone
 # Apple Website Clone
 
 A collaborative project replicating the Apple website homepage, built using HTML and CSS.
@@ -40,7 +39,7 @@ This project is a front-end clone of Apple's website, created as a group activit
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/[leader-username]/appleClone.git
+   git clone https://github.com/Redieteshome/appleClone.git
 
 2. **Navigate to Project Directory**
     ```bash
